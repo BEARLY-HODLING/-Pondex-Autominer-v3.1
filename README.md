@@ -85,5 +85,3 @@ For issues or questions, contact [your support channel or email here]. Please in
 These scripts are provided as-is for personal use. No warranty is provided, and users are responsible for compliance with pond0x.com’s terms and local laws.
 
 ---
-
-This README provides clear, step-by-step instructions, highlights safety concerns, and ensures new users can set up and use the scripts effectively. You can customize the support contact, license, or additional notes based on your distribution preferences. Let me know if you’d like to adjust any sections or add more details!
