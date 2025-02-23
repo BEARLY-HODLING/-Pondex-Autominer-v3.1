@@ -1,0 +1,1 @@
+# -Pondex-Autominer-v3.1
